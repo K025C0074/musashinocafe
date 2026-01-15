@@ -5,6 +5,10 @@
 	justify-content: space-between;
 	align-items: center;
 }
+.header-container h1 img{
+	width: 300px;
+	height: auto;
+} 
 
 .Burger_Menu img{
 	height: 40px;
@@ -19,6 +23,7 @@
 	height: 560px;
 	overflow: hidden;
 	margin: 0 auto;
+	border-bottom: 10px solid black;
 }
 
 @media screen and (max-width: 767px){
@@ -127,3 +132,4 @@ footer {
 p,h3 {
 	text-align: center;
 }
+

@@ -37,6 +37,7 @@
 		height: 100px;
 	}
 }
+
 .img-01, .img-02, .img-03, .img-04{
 	position: absolute;
 	top: 0;
@@ -133,3 +134,14 @@ p,h3 {
 	text-align: center;
 }
 
+/*メニュー*/
+.menu-menu{
+	text-align: center;
+}
+.menu-menu img{
+	width: 100%;
+	height: auto;
+}
+.menu-menu p{
+	font-size: 13px;
+}

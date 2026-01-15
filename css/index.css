@@ -98,10 +98,18 @@
 
 .menu-touch a{
 	display: flex;
-	align-items: center;
 	justify-content: center;
+	align-items: center;
+	margin: auto;
+	display: flex;
+	border-radius: 4px;
+	background-color: #555;
+	color: white;
+	width: 150px;
+	height: 30px;
+	text-decoration: none;
+	font-size: 14px;
 }
-
 
 .fotter img{
 	height: 28px;

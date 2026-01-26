@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-	background-color: #e2e2e2;
+	background-color: #bbb9b9;
 }
 .header-container {
 	display: flex;
@@ -207,24 +207,36 @@ h3, .center{
 .alcohol1{
 	width: 80%;
 	height: auto;
-	
 }
 .alcohol2{
-	width: 84%;
+	width: 76%;
 	height: auto;
 }
 .alcohol3{
-	width: 59%;
+	width: 53%;
 	height: auto;
 }
 
+.wrap-sandwich{
+	width: 30%;
+}
+
 /*アクセス*/
+.access img{
+	width: 100px;
+	height: auto;
+}
+
 iframe{
 	width: 100%;
 }
 
 /*営業日・営業時間*/
-.calender img{
+.business{
+	width: 200px;
+	height: auto;
+}
+.calender{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -232,15 +244,19 @@ iframe{
 	width: auto;
 }
 
-.business th, .business td{
+.business-time th, .business-time td{
 	border: 2px solid black;
 }
 
 /*hambergermenu*/
 .img1-hamberger, .img2-hamberger{
-	height: 50px;
+	height: 30px;
+}
+
+.img1-hamberger{
+	margin-bottom:10px ;
 }
 
 .img3-hamberger{
-	height: 30px;
+	height: 50px;
 }

@@ -221,3 +221,12 @@ iframe{
 .business th, .business td{
 	border: 2px solid black;
 }
+
+/*hambergermenu*/
+.img1-hamberger, .img2-hamberger{
+	height: 50px;
+}
+
+.img3-hamberger{
+	height: 30px;
+}

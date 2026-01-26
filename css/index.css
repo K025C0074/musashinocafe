@@ -204,6 +204,20 @@ h3, .center{
 	font-size: 13px;
 }
 
+.alcohol1{
+	width: 80%;
+	height: auto;
+	
+}
+.alcohol2{
+	width: 84%;
+	height: auto;
+}
+.alcohol3{
+	width: 59%;
+	height: auto;
+}
+
 /*アクセス*/
 iframe{
 	width: 100%;

@@ -204,17 +204,37 @@ h3, .center{
 	font-size: 13px;
 }
 
+.darjeeling-black-tea img{
+	width: 50%;
+	height: auto;
+}
+
+.ice-cafelate img{
+	width: 90%;
+	height: auto;
+}
+.ice-coffe img, .ice-tea img, .orange-juice img, .mango-juice img, .coca-cola img{
+	width: 60%;
+	height: auto;
+}
+
 .alcohol1{
 	width: 80%;
 	height: auto;
 }
 .alcohol2{
-	width: 76%;
+	width: 51%;
 	height: auto;
 }
 .alcohol3{
-	width: 53%;
+	width: 52%;
 	height: auto;
+}
+
+.lunch-imsta{
+	color: rgb(0, 0, 0);
+	text-decoration-line: underline;
+	text-decoration-color: #000000;
 }
 
 .wrap-sandwich{
